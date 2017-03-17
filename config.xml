@@ -41,7 +41,7 @@
   
   <icon src="icon.png" platform="android" qualifier="ldpi"/>
   <icon src="icon.png" platform="android" qualifier="mdpi"/>
-  <icon src="icon.png platform="android" qualifier="hdpi"/>
+  <icon src="icon.png" platform="android" qualifier="hdpi"/>
   <icon src="icon.png" platform="android" qualifier="xhdpi"/>
   <icon src="icon.png" platform="blackberry"/>
   <icon src="icon.png" platform="blackberry" state="hover"/>
